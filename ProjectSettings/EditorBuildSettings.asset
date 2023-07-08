@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MenuPrincipal.unity
+    guid: 958e98a29add56d45aaa2b2aef05ce00
+  - enabled: 0
+    path: Assets/Puzles/Engranajes/Engranajes.unity
+    guid: d27e48435b173b1498b443585fb7de11
+  - enabled: 0
+    path: Assets/Puzles/RellenarFigura/RellenarFigura.unity
+    guid: 9d5269ee37cd1764fb6b4e80673d0bbd
+  - enabled: 1
+    path: Assets/Puzles/SimonDice/SimonDice.unity
+    guid: 6f8531ec888ed8b45989088d25154f31
+  - enabled: 1
+    path: Assets/Story/Scenes/InicioDream.unity
+    guid: a5af9f15069b46942a68aff9e158e8d8
+  - enabled: 1
+    path: Assets/Story/Scenes/Room.unity
+    guid: 1506a3ceb3a22e5499105b4a94db4853
+  - enabled: 1
+    path: Assets/Puzles/PruebaHabilidad/PruebaHabilidad.unity
+    guid: 9859335b63a3fca4182409db100b10e7
+  - enabled: 0
+    path: Assets/Puzles/LaberintoColision/LaberintoColision.unity
+    guid: ffe703ddc02bc7747b0c773e04e154d7
+  - enabled: 1
+    path: Assets/Story/Scenes/SelectorHistoria.unity
+    guid: 461b0fc84d621ab4ab1ee2caef99babe
+  - enabled: 1
+    path: Assets/Puzles/A_SelectorPuzles/SelectorPuzles.unity
+    guid: 7c851f049358e09448333d7feda0e204
+  - enabled: 1
+    path: Assets/Puzles/RayosLuz/RayosLuz.unity
+    guid: 142b4ea3c0abe044995b15d8b4cf2670
+  - enabled: 1
+    path: Assets/Story/Scenes/MainDream.unity
+    guid: 30cce8db341d6214a8587d12bf193585
+  - enabled: 1
+    path: Assets/Puzles/SliderV2/SliderV2.unity
+    guid: 5d7e955549653ec4395176c2d473b3ce
+  - enabled: 1
+    path: Assets/Puzles/SliderPuzle/SliderPuzle.unity
+    guid: c8b8d6d2a92f5684a8c610b862e86ca9
+  - enabled: 1
+    path: Assets/Puzles/Cables/Cables.unity
+    guid: 1ebb1fe9d444c604ba0ca5706e752dd2
+  m_configObjects: {}

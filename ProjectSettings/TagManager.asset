@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Engranaje
+  - MOVER
+  - DropValid
+  - DropInvalid
+  - Draggable
+  - Malo
+  - Bueno
+  - Marcador
+  - DataGame
+  - InventoryWeel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Dragging
+  - Colocado
+  - Colisionando
+  - Tocandose
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - NPC
+  - Items
+  - WalkableItems
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor0
+    uniqueID: 838755099
+    locked: 0
+  - name: UpFloor0
+    uniqueID: 641038705
+    locked: 0
+  - name: Floor1
+    uniqueID: 3701428043
+    locked: 0
+  - name: UpFloor1
+    uniqueID: 1386000899
+    locked: 0
+  - name: Top
+    uniqueID: 891943291
+    locked: 0
+  - name: EvenMoreTop
+    uniqueID: 667329589
+    locked: 0
